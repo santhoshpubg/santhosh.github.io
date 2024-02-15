@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Santhosh Krishnan Sundaran",
+    "label": "IT Infrastruture Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "getme.santhosh@gmail.com",
+    "phone": "+353 87-092-5372",
+    "url": "https://santhoshpubg.github.io/santhosh.github.io/",
+    "summary": "Experienced IT Infrastructure Engineer and technology visionary with over multi years of quantifiable success in managing multiple large-scale technology projects networks and systems.A proven track record of building top-performing teams to serve users globally.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "8 Citywest Village Avenue , Citywest Village",
+      "postalCode": "D24 DDH7",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "region": "Ireland"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIN",
+        "username": "santhosh",
+        "url": "www.linkedin.com/in/santhosh-irl"
       }
     ]
   },

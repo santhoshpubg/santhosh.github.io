@@ -2,11 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: "
+                In education, teaching is the concerted sharing of knowledge and experience, which is usually organized within a discipline and, more generally, the provision of stimulus to the psychological and intellectual growth of a person by another person or artifact."
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+This page is under construction. 
 
-Organize your courses by years, topics, or universities, however you like!
+Note : Convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+
+Organize your courses by years, topics, or universities, however you like! :)
